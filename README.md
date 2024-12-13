@@ -1,4 +1,5 @@
 # TITLE-Capybara-Shootout-CutenessOverload-
+<img width="602" alt="cute game" src="https://github.com/user-attachments/assets/ca044588-7027-44a9-a08a-3548e279a34e" />
 
 In this multiplayer, capybara shoot-out game, the players must avoid one anothers flower bullets. Each hit results in depletion of their health. (idk how many times they get shot until they die) To restore their health, there will be boosters such as hearts for the capybaras to collect as they glide up and down the screen. 
 
